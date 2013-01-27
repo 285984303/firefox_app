@@ -1,0 +1,14 @@
+{
+"name":"Makepolo",
+"launch_path":"/index.html",
+"type":"certified",
+"developer":{
+"name":"ricky",
+"url":"http://www.qq.com/285984303"
+  },
+"icons":{
+"120":"/style/test.png"
+
+},
+"permissions":[]
+}
